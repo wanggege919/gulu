@@ -1,0 +1,23 @@
+{
+  "name": "gulu",
+  "version": "1.0.0",
+  "description": "这是一个 UI 组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanggege919/gulu.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "shuwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wanggege919/gulu/issues"
+  },
+  "homepage": "https://github.com/wanggege919/gulu#readme"
+}
